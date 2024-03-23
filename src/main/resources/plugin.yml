@@ -1,0 +1,10 @@
+name: ChunkManager
+version: '${project.version}'
+main: cc.sakurarain.chunkmanager.ChunkManager
+commands:
+  chunkmanager:
+    aliases:
+      - cm
+      - chunk
+      - chunks
+    permission: op
